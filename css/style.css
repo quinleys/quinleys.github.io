@@ -340,10 +340,6 @@ h2 {
     
     text-align: center;
 }
-.portfolio{
-    height: 80%;
-}
-
 
 .footer{
     height: 200px;
@@ -455,15 +451,6 @@ h2 {
     transform: scale(1.1);
     transition: all 0.2s ease-in;
     filter: brightness(0.5);
-}
-.row1{
-    width: 100%;
-    height: 300px;
-    background-color:#F2F2F2;
-    margin-top: 40px;
-    margin: 20px;
-    overflow: hidden;
-    
 }
 .teamcolum{
     
